@@ -1,0 +1,9 @@
+security:
+  oauth2:
+    client:
+      clientId: 99b6e8ac-e116-4033-8265-ab26fa35f90e
+      clientSecret: NGMxZTc3MWUtYzY5Ni00OTVhLTlmZWQtNDQ4YTI3ZjA0OTVk
+      accessTokenUri: https://appid-oauth.eu-gb.bluemix.net/oauth/v3/095cd05c-6254-4424-998f-21609ee9a883/token
+      userAuthorizationUri: https://appid-oauth.eu-gb.bluemix.net/oauth/v3/095cd05c-6254-4424-998f-21609ee9a883/authorization
+    resource:
+      userInfoUri: https://appid-oauth.eu-gb.bluemix.net/oauth/v3/095cd05c-6254-4424-998f-21609ee9a883/userinfo
